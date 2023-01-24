@@ -19,6 +19,7 @@ help.cur
 working.ani
 busy.ani
 text.cur
+text-v.cur
 handwriting.cur
 disabled.cur
 resize-v.cur
@@ -35,6 +36,7 @@ zoom-in.cur
 zoom-out.cur
 select-location.cur
 select-person.cur
+hand.cur
 
 [Strings]
 CUR_DIR     = "Cursors\Chunky"
