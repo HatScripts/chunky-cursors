@@ -7,9 +7,9 @@
    id="svg5"
    sodipodi:docname="cursors.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   inkscape:export-filename="D:\Pictures\Design\Cursors.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="C:\Users\nxhlm\Documents\GitHub\chunky-cursors\preview2.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -75,10 +75,10 @@
      objecttolerance="20"
      borderlayer="true"
      showborder="true"
-     showgrid="true"
+     showgrid="false"
      showguides="false"
-     inkscape:cx="121.4"
-     inkscape:cy="32.53"
+     inkscape:cx="59.22"
+     inkscape:cy="62.23"
      inkscape:document-units="px"
      inkscape:object-paths="true"
      inkscape:pagecheckerboard="false"
@@ -106,7 +106,8 @@
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      width="192px"
-     height="128px">
+     height="128px"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
        position="40.125,115.5625"
        orientation="-0.70710678,0.70710678"
@@ -134,34 +135,22 @@
        empopacity="0.25098039" />
   </sodipodi:namedview>
   <path
+     id="path27366"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="M -16 131.3 L -22.36 137.6 L -18 137.6 L -18 142 L -22.36 142 L -22.36 137.6 L -28.73 144 L -22.36 150.4 L -22.36 146 L -18 146 L -18 150.4 L -22.36 150.4 L -16 156.7 L -9.637 150.4 L -14 150.4 L -14 146 L -9.637 146 L -9.637 150.4 L -3.271 144 L -9.637 137.6 L -9.637 142 L -14 142 L -14 137.6 L -9.637 137.6 L -16 131.3 z " />
+  <path
+     id="path25087"
+     d="m -18,102 v 8 h -8 v 4 h 8 v 8 h 4 v -8 h 8 v -4 h -8 v -8 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     inkscape:connector-curvature="0" />
+  <path
      id="path4808"
      d="M 102.6,4.57 V 27.3 l 5.2,-5.13 2.2,5.34 3.7,-1.53 -2.2,-5.34 h 7.2 z"
      style="fill:#ffffff;stroke:#000000;stroke-width:1.3;paint-order:markers fill stroke"
      inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     id="path4810"
-     d="m 112.3,6.25 c -2.6,0 -4.8,2.14 -4.8,4.75 0,2.61 2.2,4.75 4.8,4.75 2.6,0 4.7,-2.14 4.7,-4.75 0,-2.61 -2.1,-4.75 -4.7,-4.75 z"
-     style="color:#000000;fill:#03a9f4;stroke:#000000;stroke-width:2.5;stroke-miterlimit:100;paint-order:stroke markers fill"
-     sodipodi:nodetypes="sssss" />
-  <g
-     id="g4844"
-     transform="translate(-38.55,70.82)">
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#ffffff;stroke-width:2.5;stroke-miterlimit:100;paint-order:stroke markers fill"
-       d="m 150.9,-63.45 c -1.3,0 -2.4,1.07 -2.4,2.38 h 1.3 a 1.125,1.125 0 0 1 1.1,-1.13 1.125,1.125 0 0 1 1.1,1.13 1.125,1.125 0 0 1 -1.1,1.12 0.625,0.625 0 0 0 -0.6,0.63 v 0.95 c 0.2,-0.1 0.4,-0.15 0.6,-0.15 0.2,0 0.4,0.1 0.6,0.15 v -0.42 c 1,-0.28 1.8,-1.19 1.8,-2.28 0,-1.31 -1.1,-2.38 -2.4,-2.38 z"
-       id="path4832" />
-    <circle
-       style="fill:#ffffff;stroke-width:1.3;paint-order:markers fill stroke"
-       id="circle4834"
-       r="0.875"
-       cy="-57.07"
-       cx="150.9" />
-  </g>
-  <path
      style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
-     d="m 48,66.71 -6.65,6.69 h 4.44 v 4.4 h -4.44 v -4.4 l -6.64,6.6 6.64,6.6 v -4.4 h 4.44 v 4.4 h -4.44 l 6.65,6.7 6.65,-6.7 h -4.44 v -4.4 h 4.44 v 4.4 L 61.29,80 54.65,73.4 v 4.4 h -4.44 v -4.4 h 4.44 z"
+     d="m 48,66.7 -6.65,6.69 h 4.44 v 4.4 h -4.44 v -4.4 l -6.64,6.6 6.64,6.6 v -4.4 h 4.44 v 4.4 h -4.44 l 6.65,6.7 6.65,-6.7 h -4.44 v -4.4 h 4.44 v 4.4 l 6.64,-6.6 -6.64,-6.6 v 4.4 h -4.44 v -4.4 h 4.44 z"
      id="path4177"
      inkscape:connector-curvature="0" />
   <path
@@ -171,13 +160,13 @@
      id="path4351" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
-     d="m 135.6,71.6 v 10.1 l 3.7,-3.6 6.6,6.7 -3.6,3.6 h 10.1 V 78.3 l -3.6,3.6 -6.7,-6.7 3.6,-3.6 z"
+     d="m 167.6,71.6 v 10.1 l 3.7,-3.6 6.6,6.7 -3.6,3.6 h 10.1 V 78.3 l -3.6,3.6 -6.7,-6.7 3.6,-3.6 z"
      id="path4856"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path4890"
-     d="m 120.4,71.6 v 10.1 l -3.6,-3.6 -6.7,6.7 3.6,3.6 H 103.6 V 78.3 l 3.6,3.6 6.7,-6.7 -3.6,-3.6 z"
+     d="m 152.4,71.6 v 10.1 l -3.6,-3.6 -6.7,6.7 3.6,3.6 H 135.6 V 78.3 l 3.6,3.6 6.7,-6.7 -3.6,-3.6 z"
      style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100" />
   <path
      style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:2.6;paint-order:markers stroke fill"
@@ -187,7 +176,7 @@
      sodipodi:nodetypes="cccsscccccccccssccccccc" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
-     d="m 176,68.2 7.1,7.1 H 178 v 9.4 h 5.1 l -7.1,7.1 -7.1,-7.1 h 5.1 v -9.4 h -5.1 z"
+     d="m 112,68.2 7.1,7.1 H 114 v 9.4 h 5.1 l -7.1,7.1 -7.1,-7.1 h 5.1 v -9.4 h -5.1 z"
      id="path4113"
      inkscape:connector-curvature="0" />
   <path
@@ -200,10 +189,10 @@
      id="circle4145"
      cx="176"
      cy="112"
-     r="9" />
+     r="8" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.3"
-     d="m 167,112 h -4"
+     d="m 168,112 h -4"
      id="path4147"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -211,11 +200,11 @@
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0"
      id="path4149"
-     d="m 189,112 h -4"
+     d="m 188,112 h -4"
      style="fill:none;stroke:#000000;stroke-width:1.3" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.3"
-     d="m 176,125 v -4"
+     d="m 176,124 v -4"
      id="path4151"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -223,7 +212,7 @@
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0"
      id="path4153"
-     d="M 176,103 V 99"
+     d="m 176,104 v -4"
      style="fill:none;stroke:#000000;stroke-width:1.3" />
   <circle
      style="fill:#000000;stroke-width:1.6;stroke-linecap:square;paint-order:markers stroke fill"
@@ -231,37 +220,16 @@
      cx="176"
      cy="112"
      r="1.3" />
-  <g
-     id="g4274"
-     transform="translate(-0.8541,-0.065)"
-     style="stroke-width:1.00001">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.30001;paint-order:markers fill stroke"
-       d="M 39.5,4.635 V 27.37 l 5.13,-5.13 2.21,5.33 3.7,-1.53 -2.21,-5.33 h 7.25 z"
-       id="path4165" />
-    <path
-       style="color:#000000;fill:#ff5252;stroke:#000000;stroke-width:2.50003;stroke-miterlimit:100;paint-order:stroke markers fill"
-       d="m 49.15,6.315 c -2.61,0 -4.75,2.142 -4.75,4.755 0,2.6 2.14,4.75 4.75,4.75 2.6,0 4.75,-2.15 4.75,-4.75 0,-2.613 -2.15,-4.755 -4.75,-4.755 z m 0,2.5 c 1.25,0 2.25,0.993 2.25,2.255 0,0.15 0,0.29 0,0.43 L 48.71,8.858 c 0.14,-0.03 0.28,-0.04 0.44,-0.04 z m -2.21,1.815 2.65,2.64 c -0.15,0 -0.29,0.1 -0.44,0.1 -1.26,0 -2.25,-1 -2.25,-2.25 0,-0.16 0,-0.3 0,-0.44 z"
-       id="path4169"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.30001;paint-order:markers fill stroke"
+     d="M 38.65,4.57 V 27.3 l 5.13,-5.13 2.21,5.33 3.7,-1.53 -2.21,-5.33 h 7.25 z"
+     id="path4165" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;stroke:#000000;stroke-width:1.30001;paint-order:markers fill stroke"
      d="M 70.65,4.57 V 27.3 l 5.13,-5.13 2.21,5.33 3.7,-1.53 -2.21,-5.33 h 7.25 z"
      id="path4171" />
-  <path
-     sodipodi:nodetypes="sssss"
-     style="color:#000000;fill:#66bb6a;stroke:#000000;stroke-width:2.50003;stroke-miterlimit:100;paint-order:stroke markers fill"
-     d="m 80.3,6.25 c -2.61,0 -4.75,2.142 -4.75,4.76 0,2.6 2.14,4.75 4.75,4.75 2.6,0 4.75,-2.15 4.75,-4.75 0,-2.618 -2.15,-4.76 -4.75,-4.76 z"
-     id="path4173"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path4175"
-     d="m 79.3,8 v 1.995 h -2 V 12 h 2 v 2 h 2 v -2 h 2 V 9.995 h -2 V 8 Z"
-     style="fill:#ffffff;stroke-width:0.500005;stroke-miterlimit:100"
-     inkscape:connector-curvature="0" />
   <circle
      style="fill:none;stroke:#000000;stroke-width:1.29997;stroke-linecap:square"
      id="path3771"
@@ -325,100 +293,37 @@
      inkscape:export-ydpi="96" />
   <path
      inkscape:connector-curvature="0"
-     id="path4250-7"
-     d="m 176,7.25 c -4.8,0 -8.7,3.94 -8.7,8.75 0,4.81 3.9,8.75 8.7,8.75 4.8,0 8.8,-3.94 8.8,-8.75 0,-4.81 -4,-8.75 -8.8,-8.75 z m 0,4.61 A 4.145,4.145 0 0 1 180.1,16 4.145,4.145 0 0 1 176,20.14 4.145,4.145 0 0 1 171.9,16 4.145,4.145 0 0 1 176,11.86 Z"
-     style="color:#000000;fill:#03a9f4;stroke-width:1.3;stroke-miterlimit:100" />
-  <path
-     sodipodi:open="true"
-     sodipodi:end="1.571"
-     sodipodi:start="0"
-     sodipodi:ry="6.5"
-     sodipodi:rx="6.5"
-     sodipodi:cy="176"
-     sodipodi:cx="-16"
-     sodipodi:type="arc"
-     transform="rotate(-90)"
-     id="path4593"
-     style="fill:#bbdefb;stroke:#b3e5fc;stroke-width:4;stroke-miterlimit:100;paint-order:markers fill stroke"
-     sodipodi:arc-type="arc"
-     d="m -9.5,176 a 6.5,6.5 0 0 1 -1.9,4.6 6.5,6.5 0 0 1 -4.6,1.9" />
+     id="rect3771"
+     d="m 57.96,120.6 c 0.78,-0.8 0.78,-2.1 0,-2.9 L 47.35,107.1 41.7,101.4 h -4.25 v 4.3 l 5.66,5.6 10.61,10.7 c 0.78,0.7 2.04,0.7 2.83,0 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-linecap:square" />
   <path
      inkscape:connector-curvature="0"
-     id="path4595"
-     d="m 176,7.25 c -4.9,0 -8.7,3.95 -8.7,8.75 0,4.81 3.9,8.75 8.7,8.75 4.8,0 8.8,-3.94 8.8,-8.75 0,-4.8 -4,-8.75 -8.8,-8.75 z m 0,4.61 a 4.145,4.145 0 0 1 4,4.14 4.145,4.145 0 0 1 -4,4.15 4.145,4.145 0 0 1 -4.1,-4.15 4.145,4.145 0 0 1 4.1,-4.14 z"
-     style="color:#000000;fill:none;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100" />
+     id="path3773-3"
+     d="m 56.55,116.3 -4.25,4.3"
+     style="fill:none;stroke:#000000;stroke-width:1.3" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;paint-order:markers fill stroke"
-     d="M 134.6,4.569 V 27.3 l 5.2,-5.13 2.2,5.34 3.7,-1.53 -2.2,-5.34 h 7.2 z"
-     id="path4178" />
-  <circle
-     style="fill:none;stroke:#03a9f4;stroke-width:3;stroke-miterlimit:100;paint-order:markers fill stroke"
-     id="path4056"
-     transform="rotate(-90)"
-     cx="-11.01"
-     cy="144.3"
-     r="3.5" />
+     id="path3782"
+     d="M 37.45,101.4 36.04,100"
+     style="fill:none;stroke:#000000;stroke-width:1.3" />
   <path
-     transform="rotate(-90)"
-     id="circle4058"
-     style="fill:none;stroke:#b3e5fc;stroke-width:3;stroke-miterlimit:100;paint-order:markers fill stroke"
-     sodipodi:type="arc"
-     sodipodi:cx="-11.01"
-     sodipodi:cy="144.3"
-     sodipodi:rx="3.5"
-     sodipodi:ry="3.5"
-     sodipodi:start="0"
-     sodipodi:end="1.571"
-     sodipodi:open="true"
-     sodipodi:arc-type="arc"
-     d="m -7.51,144.3 a 3.5,3.5 0 0 1 -1.025,2.5 3.5,3.5 0 0 1 -2.475,1" />
-  <path
-     style="color:#000000;fill:#000000;stroke-width:2.5;stroke-miterlimit:100;paint-order:markers stroke fill"
-     d="m 144.3,5 c -3.3,0 -6,2.71 -6,6 0,3.29 2.7,6 6,6 3.3,0 6,-2.71 6,-6 0,-3.29 -2.7,-6 -6,-6 z m 0,1.25 c 2.6,0 4.8,2.14 4.8,4.75 0,2.61 -2.2,4.75 -4.8,4.75 -2.6,0 -4.7,-2.14 -4.7,-4.75 0,-2.61 2.1,-4.75 4.7,-4.75 z m 1,1.41 c 0.2,0.1 0.4,0.11 0.5,0.19 -0.1,-0.1 -0.3,-0.14 -0.5,-0.19 z m 1.3,0.75 c 0.3,0.23 0.5,0.49 0.7,0.78 -0.2,-0.29 -0.4,-0.55 -0.7,-0.78 z m -2.3,0.34 a 2.25,2.25 0 0 0 -2.2,2.25 2.25,2.25 0 0 0 2.2,2.25 2.25,2.25 0 0 0 2.3,-2.25 2.25,2.25 0 0 0 -2.3,-2.25 z m 0,1.25 c 0.6,0 1,0.43 1,1 0,0.57 -0.4,1 -1,1 -0.6,0 -1,-0.43 -1,-1 0,-0.57 0.4,-1 1,-1 z"
-     id="path4047"
+     style="fill:none;stroke:#000000;stroke-width:1.3"
+     d="m 47.35,107.1 -4.24,4.2"
+     id="path3784"
      inkscape:connector-curvature="0" />
-  <g
-     id="g4660"
-     transform="translate(-31.96,32.04)"
-     inkscape:export-filename="D:\Pictures\Design\Cursors\png\draw.png"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96"
-     style="stroke-width:1.3">
-    <path
-       inkscape:connector-curvature="0"
-       id="rect3771"
-       d="m 89.92,88.51 c 0.78,-0.79 0.78,-2.05 0,-2.83 L 79.31,75.07 73.66,69.41 h -4.25 v 4.25 l 5.66,5.65 10.61,10.61 c 0.78,0.78 2.04,0.78 2.83,0 z"
-       style="fill:#ffffff;stroke:#000000;stroke-linecap:square" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3773-3"
-       d="m 88.51,84.26 -4.25,4.25"
-       style="fill:none;stroke:#000000" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3782"
-       d="M 69.41,69.41 68,68"
-       style="fill:none;stroke:#000000" />
-    <path
-       style="fill:none;stroke:#000000"
-       d="m 79.31,75.07 -4.24,4.24"
-       id="path3784"
-       inkscape:connector-curvature="0" />
-    <circle
-       transform="rotate(135)"
-       r="1.5"
-       cy="-113.7"
-       cx="6.5"
-       id="path3786"
-       style="fill:#ffffff;stroke:#000000;stroke-linecap:square" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3788"
-       d="m 85.68,89.92 c -4.9,4.9 -6.42,-3.59 -8.84,-6.01"
-       style="fill:none;stroke:#000000" />
-  </g>
+  <circle
+     transform="rotate(135)"
+     r="1.5"
+     cy="-113.8"
+     cx="51.76"
+     id="path3786"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-linecap:square" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3788"
+     d="m 53.72,122 c -4.9,4.9 -6.42,-3.6 -8.84,-6.1"
+     style="fill:none;stroke:#000000;stroke-width:1.3" />
   <path
      sodipodi:nodetypes="ssccccccccccccccccccsss"
      inkscape:connector-curvature="0"
@@ -428,12 +333,6 @@
      inkscape:export-filename="D:\Pictures\Design\Cursors\png\hand.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
-  <path
-     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100;paint-order:markers fill stroke"
-     d="m 72.65,102.7 c 0,6 5.3,9.3 5.3,9.3 0,0 -5.3,3.3 -5.3,9.4 h 14.7 c 0,-6.1 -5.4,-9.4 -5.4,-9.4 0,0 5.4,-3.3 5.4,-9.3 z"
-     id="path4719"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
   <g
      id="g37765"
      transform="translate(0,-32)"
@@ -517,4 +416,160 @@
      inkscape:export-filename="D:\Pictures\Design\Cursors\png\select-user.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
+  <g
+     id="g4613"
+     transform="translate(160)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4250"
+       d="m 16,7.25 c -4.81,0 -8.75,3.94 -8.75,8.75 0,4.81 3.94,8.75 8.75,8.75 4.81,0 8.75,-3.94 8.75,-8.75 0,-4.81 -3.94,-8.75 -8.75,-8.75 z m 0,4.61 A 4.145,4.145 0 0 1 20.14,16 4.145,4.145 0 0 1 16,20.14 4.145,4.145 0 0 1 11.86,16 4.145,4.145 0 0 1 16,11.86 Z"
+       style="color:#000000;fill:#03a9f4;stroke-width:1.3;stroke-miterlimit:100" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="1.571"
+       sodipodi:start="0"
+       sodipodi:ry="6.5"
+       sodipodi:rx="6.5"
+       sodipodi:cy="16"
+       sodipodi:cx="-16"
+       sodipodi:type="arc"
+       transform="rotate(-90)"
+       id="path4593"
+       style="fill:none;stroke:#b3e5fc;stroke-width:4;stroke-miterlimit:100;paint-order:markers fill stroke"
+       sodipodi:arc-type="arc"
+       d="m -9.5,16 a 6.5,6.5 0 0 1 -1.9,4.6 6.5,6.5 0 0 1 -4.6,1.9" />
+  </g>
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="path28256"
+     cx="176"
+     cy="16"
+     r="4.1" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="path28586"
+     cx="176"
+     cy="16"
+     r="8.75" />
+  <path
+     id="path43324"
+     d="M 134.6,4.57 V 27.3 l 5.2,-5.13 2.2,5.34 3.7,-1.53 -2.2,-5.34 h 7.2 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;paint-order:markers fill stroke"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="fill:#03a9f4;stroke:#000000;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="circle49656"
+     cx="112.2"
+     cy="11"
+     r="4.75" />
+  <g
+     id="g4844"
+     transform="translate(-38.7,70.82)">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#ffffff;stroke-width:2.5;stroke-miterlimit:100;paint-order:stroke markers fill"
+       d="m 150.9,-63.45 c -1.3,0 -2.4,1.07 -2.4,2.38 h 1.3 a 1.125,1.125 0 0 1 1.1,-1.13 1.125,1.125 0 0 1 1.1,1.13 1.125,1.125 0 0 1 -1.1,1.12 0.625,0.625 0 0 0 -0.6,0.63 v 0.95 c 0.2,-0.1 0.4,-0.15 0.6,-0.15 0.2,0 0.4,0.1 0.6,0.15 v -0.42 c 1,-0.28 1.8,-1.19 1.8,-2.28 0,-1.31 -1.1,-2.38 -2.4,-2.38 z"
+       id="path4832" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.3;paint-order:markers fill stroke"
+       id="circle4834"
+       r="0.875"
+       cy="-57.07"
+       cx="150.9" />
+  </g>
+  <circle
+     style="fill:#66bb6a;stroke:#000000;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="circle54560"
+     cx="80.2"
+     cy="11"
+     r="4.75" />
+  <path
+     id="path4175"
+     d="m 79.2,8 v 2 h -2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h -2 V 8 Z"
+     style="fill:#ffffff;stroke-width:0.500005;stroke-miterlimit:100"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <circle
+     style="fill:#ff5252;stroke:#000000;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="circle57200"
+     cx="48.2"
+     cy="11"
+     r="4.75" />
+  <g
+     id="g68503"
+     transform="translate(-3.02,23.66)">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:2.50003;stroke-miterlimit:100;paint-order:stroke markers fill"
+       d="m 49.01,-13.12 2.65,2.64 c -0.15,0 -0.29,0.1 -0.44,0.1 -1.26,0 -2.25,-1 -2.25,-2.25 0,-0.16 0,-0.3 0,-0.44 z"
+       id="path59743" />
+    <path
+       style="color:#000000;fill:#000000;stroke-width:2.50003;stroke-miterlimit:100;paint-order:stroke markers fill"
+       d="m 51.22,-14.94 c 1.25,0 2.25,0.99 2.25,2.26 0,0.15 0,0.29 0,0.43 l -2.69,-2.65 c 0.14,0 0.28,0 0.44,0 z"
+       id="path59741" />
+  </g>
+  <circle
+     style="fill:none;stroke:#03a9f4;stroke-width:3;stroke-miterlimit:100;paint-order:markers fill stroke"
+     id="circle68687"
+     transform="rotate(-90)"
+     cx="-11"
+     cy="144.2"
+     r="3.5" />
+  <path
+     transform="rotate(-90)"
+     id="path68689"
+     style="fill:none;stroke:#b3e5fc;stroke-width:3;stroke-miterlimit:100;paint-order:markers fill stroke"
+     sodipodi:type="arc"
+     sodipodi:cx="-11"
+     sodipodi:cy="144.2"
+     sodipodi:rx="3.5"
+     sodipodi:ry="3.5"
+     sodipodi:start="0"
+     sodipodi:end="1.571"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc"
+     d="m -7.5,144.2 a 3.5,3.5 0 0 1 -1.025,2.5 3.5,3.5 0 0 1 -2.475,1" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="circle68691"
+     cx="144.2"
+     cy="10.99"
+     r="1.6" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="circle68693"
+     cx="144.2"
+     cy="10.99"
+     r="5.35" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100;paint-order:markers fill stroke"
+     d="m 72.65,102.7 c 0,6 5.3,9.3 5.3,9.3 0,0 -5.3,3.3 -5.3,9.4 h 14.7 c 0,-6.1 -5.4,-9.4 -5.4,-9.4 0,0 5.4,-3.3 5.4,-9.3 z"
+     id="path4719"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m -6.599,70.59 -9.431,0 3.14,3.14 -3.11,3.11 -3.14,-3.14 3.11,-3.11 -9.36,-0 0,9.37 3.12,-3.12 3.14,3.14 -3.12,3.12 -3.14,-3.14 -0,9.44 9.44,-0 -3.14,-3.14 3.11,-3.11 3.14,3.14 -3.11,3.11 9.361,0 -0.03,-9.36 -3.112,3.11 -3.141,-3.14 3.113,-3.11 3.14,3.14 z"
+     id="path24759"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m -22.65,118.6 v -13.2 l -6.64,6.6 z"
+     id="path25597" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m -9.35,118.6 h -13.3 l 6.65,6.7 z"
+     id="path25595" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m -9.35,105.4 v 13.2 l 6.639,-6.6 z"
+     id="path25593" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m -16,98.7 -6.65,6.7 h 13.3 z"
+     id="path24761" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.3;stroke-miterlimit:100"
+     d="m 16,130.7 -6.649,6.7 h 4.439 v 4.4 H 9.351 v -4.4 l -6.64,6.6 6.64,6.6 v -4.4 h 4.439 v 4.4 H 9.351 l 6.649,6.7 6.65,-6.7 h -4.44 v -4.4 h 4.44 v 4.4 l 6.64,-6.6 -6.64,-6.6 v 4.4 h -4.44 v -4.4 h 4.44 z"
+     id="path27469"
+     inkscape:connector-curvature="0" />
 </svg>
