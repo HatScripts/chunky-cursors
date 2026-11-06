@@ -2,7 +2,9 @@
 
 A set of custom minimal chunky cursors.
 
-![Chunky cursors preview](preview.gif)
+![Chunky cursors preview gif](preview.gif)
+
+![Chunky cursors preview](preview.png)
 
 ## Installation
 
